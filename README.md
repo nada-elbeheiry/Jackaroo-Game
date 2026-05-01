@@ -19,3 +19,4 @@ This is a Java-based implementation of the Jackaroo board game developed as part
 
 ## Notes
 The GUI is partially implemented. The main focus of the project was backend logic.
+As this is the third and last milestone, we were given a starter code of the second milestone so the backend code isn't all ours, but we got the full mark in the first ilestone and got 74.09?75 in the second.
